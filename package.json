@@ -17,7 +17,7 @@
     "reactflow": "^11.7.0",
     "slate": "^0.94.1",
     "slate-history": "^0.93.0",
-    "slate-react": "^0.94.2",
+    "slate-react": "^0.107.1",
     "subscriptions-transport-ws": "^0.11.0",
     "uuid": "^9.0.0"
   },
